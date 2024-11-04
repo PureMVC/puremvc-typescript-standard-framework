@@ -1,16 +1,10 @@
 PureMVC Standard Framework for TypeScript
-----------------------------------------------------------------------------------------------------
-Release Date: 11/10/2012
-Platform: TypeScript
-Version: 1
-Revision: 0
-Author: Frederic Saunier <frederic.saunier@puremvc.org>
-----------------------------------------------------------------------------------------------------
-
-1.0 - First official PureMVC TypeScript Standard port.
-
-This port, is inspired originally from PureMVC Standard Framework for AS3 port by Cliff Hall but was
-converted both from PureMVC AS3 Standard port and PureMVC JavaScript Standard for Objs Unit Tests.
-
-Will probably stay tagged as development while TypeScript language specification is not finalized,
-but remember that any TypeScript PureMVC project will output ready for production JavaScript.
+--------------------------------------------------------------------------
+Release Date: 11/03/24
+    Platform: TypeScript
+     Version: 2
+    Revision: 0
+       Minor: 0
+      Authors: Saad Shams <saad.shams@puremvc.org>
+--------------------------------------------------------------------------
+2.0.0 - Brand new implementation of ported code, equivalent to AS3 Standard Version 2.0.4.
